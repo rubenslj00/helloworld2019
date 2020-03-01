@@ -1,0 +1,1148 @@
+/* Large Layout: 1280px. */
+@media only screen and (min-width: 1601px) and (max-width: 1920px) {
+  .apply-btn {
+  right: 20%;
+}
+}
+/*Large Layout: 1280px. */
+@media only screen and (min-width: 1401px) and (max-width: 1600px) {
+ .apply-btn {
+  right: 14%;
+}
+
+}
+@media only screen and (min-width: 1201px) and (max-width: 1400px) {
+ .apply-btn {
+  right: 5%;
+}
+.red-btn {
+  right: -106px;
+}
+}
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  .apply-btn {
+  right: 10px;
+}
+.features-content {
+  padding-top: 25px;
+}
+.single-features::before {
+  border: 1px dashed #ffffff;
+  height: 94%;
+  left: 3%;
+  top: 3%;
+  width: 94%;
+}
+.features-content {
+  padding-top: 22px;
+}
+.professor-icon {
+    height: 40px;
+    width: 40px;
+}
+.professor-icon > img {
+    height: 100%;
+    width: 40px;
+}
+
+.single-course:hover::before {
+    height: 45.4%;
+    left: 7px;
+}
+.single-course-img::before {
+    height: 93.4%;
+}
+.single-course-img:hover::after {
+    left: 7px;
+    width: 95.4%;
+}
+
+.feature-icon-hover {
+    height: 40px;
+    width: 40px;
+}
+.feature-icon {
+    margin-top: 10px;
+}
+.features-content > h4 {
+    margin: 9px 0;
+}
+
+/* About page start */
+
+.tast-contant {
+    width: 75%;
+}
+.tast-contant > h4 {
+    margin-bottom: 3px;
+}
+
+/* About page End */
+
+/* About page start */
+
+.style2.accordion dt, .accordion.style4 dt, .accordion.style5 dt {
+  font-size: 16px;
+}
+/* About page End */
+
+/* About page start */
+
+.single-bolg::after {
+  height: 207px;
+  width: 274px;
+}
+/* About page End */
+
+
+/* footer page start */
+
+.news-content {
+  width: 71%;
+}
+/* footer page End */
+
+
+
+
+
+
+
+
+
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+/*========================================================================
+    Home Page Start
+=========================================================================*/
+.header-left ul li {
+  padding-right: 5px;
+}
+.header-right > ul {
+  padding-right: 55px;
+}
+.apply-btn {
+  padding: 10px 18px;
+
+}
+    
+    
+.sliderwrapper .owl-nav {
+  display: none;
+}
+.sliderwrapper .owl-dots {
+    display: block !important;
+}
+
+.feature-icon-hover {
+    height: 50px;
+    width: 50px;
+}
+.professor-icon {
+    height: auto;
+    width: 50px;
+}
+.professor-icon > img {
+    height: 50px;
+}
+
+.single-features {
+    height: 190px;
+}
+.single-features > img {
+    height: 100%;
+    width: 100%;
+}
+
+.single-faculties {
+    margin-bottom: 60px;
+}
+
+/* About page start */
+.tast-contant {
+  width: 82%;
+}
+/* About page End */
+
+
+.single-course:hover::before {
+  height: 45.3%;
+  left: 7px;
+  top: 7px;
+}
+
+.blog-area.sectionPding {
+    padding-top: 0;
+}
+
+.single-features::before {
+  height: 94%;
+  left: 3%;
+  top: 3%;
+  width: 94%;
+}
+.top-header {
+  padding: 10px 0;
+}
+ .mainmenu-area .navbar .navbar-nav li a {
+  font-size: 17px;
+  padding: 30px 15px;
+}
+
+.slide-content{
+    height: 100%;
+}
+.slide-images img {
+  padding-top: 76px;
+}
+.sliderwrapper {
+  height: 440px;
+}
+
+.slide-content h1 {
+  font-size: 33px;
+}
+.slide-item {
+  height: 440px;
+}
+.slide-images, .slide-content {
+  height: 440px;
+}
+.slider-btn {
+  line-height: 50px;
+  width: 180px;
+}
+.features-content {
+  padding: 0 10px;
+}
+.features-content h4{
+    margin: 3px;
+}
+.features-content img {
+  margin-bottom: 10px;
+}
+.features-content p {
+    font-size: 14px;
+}
+.features-content h4 {
+    font-size: 15px;
+}
+.notice-fix {
+  margin-bottom: 40px;
+}
+.features-area {
+  padding-top: 50px;
+}
+.section-title h1 {
+  font-size: 28px;
+}
+.sectionPding {
+    padding: 50px 0;
+}
+.title {
+  font-size: 28px;
+  margin-bottom: 50px;
+}
+.notice-board {
+  height: 380px;
+  width: 720px;
+}
+
+
+.single-course > p {
+  margin-bottom: 14px;
+  font-size: 14px;
+}
+ .single-course h3 {
+  font-size: 17px;
+  margin-top: 30px;
+}
+.course-btn, .blog-btn {
+  padding: 9px 15px;
+  font-size: 14px;
+
+}
+.course-area .owl-controls .owl-next {
+  font-size: 14px;
+  padding: 0 7px;
+  right: -30px;
+  border: 3px solid rgb(194, 234, 175);
+}
+.course-area .owl-controls .owl-prev {
+  border: 3px solid rgb(194, 234, 175);
+  font-size: 14px;
+  left: -30px;
+  padding: 0 7px;
+}
+.course-area .owl-controls .owl-next:hover, .course-area .owl-controls .owl-prev:hover {
+  background: #000 none repeat scroll 0 0;
+  border: 3px solid #dbdbdb;
+}
+.single-course-img:hover::after {
+  display: none;
+}
+.single-course-img:hover::before {
+  display: none;
+}
+.single-course:hover::before {
+  display: none;
+}
+.counter-area img {
+  margin-bottom: 15px;
+    margin-right: 0px;
+
+}
+.counter-area {
+  text-align: center;
+}
+.single-bolg:hover::after {
+  display: none;
+}
+.date {
+  bottom: 55%;
+  font-size: 14px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 8px;
+  right: 0;
+}
+.bolg-content small span {
+  margin: 0px;
+}
+.date h4 {
+  font-size: 16px;
+}
+.newslatter-area form input.form-control {
+  background-color: #efefef;
+  font-size: 18px;
+  height: 50px;
+}
+.newslatter-area form button.submit-btn {
+  padding: 11px 25px;
+  top: 3px;
+}
+.newslatter-area {
+  padding-top: 40px;
+}
+.newslatter-area h1 {
+  margin-bottom: 15px;
+}
+
+.footer-menu {
+  margin-top: 50px;
+}
+/*========================================================================
+    Home Page End
+=========================================================================*/
+/*========================================================================
+    Blog Deatils Page Start
+=========================================================================*/
+.comment-content {
+  width: 370px;
+}
+.replay .comment-content {
+  width: 330px;
+}
+.comment-area form input.form-control {
+  margin-bottom: 30px;
+}
+.bolg-right h1 {
+  font-size: 22px;
+}
+.popular-tags > a {
+  line-height: 40px;
+  width: 80px;
+  font-size: 14px;
+}
+.search-area input {
+  height: 45px;
+  width: 180px;
+}
+.single-blog-news > h4 {
+  font-size: 16px;
+}
+.bolg-catagory h2, .recent-news h2, .popular-tags h2 {
+  font-size: 18px;
+}
+/*========================================================================
+    Event  Page Start
+=========================================================================*/
+.event-content {
+  background: #fff none repeat scroll 0 0;
+  border: 2px solid #57ab2f;
+  height: auto;
+  padding: 20px;
+  position: static;
+  width: auto;
+  border-top: none;
+}
+/*========================================================================
+    Event  Page End
+=========================================================================*/
+/*========================================================================
+    Gallary  Page Start
+=========================================================================*/
+.single-gallary {
+  width: 33%;
+}
+/*========================================================================
+    Gallary  Page Start
+=========================================================================*/   
+/*404 page start*/
+.error-area img {
+    margin-top: 35px;
+}
+
+/*404 page end*/
+
+.single-contact {
+    width: 100%;
+}
+
+/* Faq Page   */
+    
+.faq-area h2 {
+  font-size: 24px;
+ 
+}
+.style2.accordion dt, .accordion.style4 dt, .accordion.style5 dt {
+  font-size: 13px;
+  padding: 10px;
+  
+}
+.accordion.style2 dt::after, .accordion.style4 dt::after, .accordion.style5 dt::after {
+  height: 43px;
+  padding: 4px;
+  top: 3px;
+  width: 45px;
+}
+.faq-area form input.form-control {
+  height: 50px;
+  margin-bottom: 15px;
+}
+/* Faq Page   */
+.slide-images.slideInRight.animated {
+    display: none !important;
+}
+
+.single-notice {
+  padding-left: 0;
+}    
+   
+    
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+/*===================================================================================================================================
+    Home Page  Start
+=============================================================================================================================*/
+
+/* HEader-top area Start */
+    
+.header-left ul li a {
+    line-height: 35px;
+}
+.header-left {
+    text-align: center;
+}
+.header-left ul li {
+    padding: 0;
+}
+.header-right {
+    padding-bottom: 30px;
+    padding-top: 7px;
+    text-align: center;
+}
+.header-right > ul {
+    margin-bottom: 24px;
+    text-align: center;
+}
+.apply-btn {
+  bottom: 0;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  right: auto;
+  text-align: center;
+  top: auto;
+  width: 100%;
+}
+/* HEader-top area End */    
+    
+
+.dropdown-menu {
+  width: 120px;
+}
+
+.slider-btn {
+  line-height: 40px;
+  text-align: center;
+  width: 140px;
+  font-size: 13px;
+}
+.slide-images {
+  display: none;
+}
+.slide-content h1 {
+  font-size: 23px;
+}
+.slide-content p {
+  font-size: 14px;
+}
+.sliderwrapper .owl-nav {
+  display: none;
+}
+.sliderwrapper .owl-dots {
+    display: block !important;
+    left: 72%;
+} 
+    
+  
+.features-content h4 {
+  margin-bottom: 3px;
+  margin-top: 15px;
+}
+.single-features:hover::before {
+  display: none;
+}
+.features-content h4 {
+  font-size: 18px;
+}
+.single-features {
+    margin-top: 30px;
+}
+.single-features img {
+  transition: all 0.6s ease 0s;
+}
+.single-bolg::after {
+  height: 200px;
+  left: 10px;
+  top: 10px;
+  width: 265px;
+}
+.bolg-content small span {
+  margin: 0px;
+}
+.date h4 {
+  font-size: 16px;
+}
+.date {
+  bottom: 160px;;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  right: 16px;
+}
+.single-bolg {
+  margin-top: 25px;
+}
+.bolg-content p {
+  margin: 10px 0;
+}
+.bolg-content {
+  margin-top: 20px;
+}
+.course-btn, .blog-btn {
+  font-size: 15px;
+  padding: 8px 10px;
+}
+.section-title p {
+  margin-bottom: 40px;
+}
+.sectionPding {
+  padding: 40px 0;
+}
+.newslatter-area h1 {
+  font-size: 22px;
+  margin-bottom: 15px;
+}
+.newslatter-area form input.form-control {
+  background: #fff none repeat scroll 0 0;
+  font-size: 15px;
+  height: 40px;
+}
+.newslatter-area form button.submit-btn {
+  margin-top: 10px;
+  padding: 12px 20px;
+  position: static;
+    font-size: 14px;
+}
+.newslatter-area {
+  padding: 25px 0;
+  text-align: center;
+}
+.icon-bar {
+    background: green none repeat scroll 0 0;
+}
+.single-faculties {
+  margin: 30px 0px;
+}
+.navbar-toggle {
+  margin-bottom: 8px;
+  margin-right: 8px;
+  margin-top: 36px;
+  padding: 10px;
+  position: relative;
+}
+.tast-contant {
+  float: none;
+  margin-top: 0px;
+  width: 100%;
+}
+.tast-contant h4 {
+  margin-top: 8px;
+}
+.student-testimnonial img {
+  border: 2px solid #57ab2f;
+  margin: 0 auto;
+  width: 100px !important;
+}
+.student-testimnonial {
+  margin-bottom: 10px;
+  padding: 10px;
+  text-align: center;
+}
+.notice-board {
+  width: 100%;
+}
+.title {
+  font-size: 22px;
+  margin-bottom: 40px;
+}
+.section-title h1 {
+  font-size: 24px;
+}
+.noticeboard-area .tastimonial {
+  padding-top: 30px;
+}
+.features-area {
+  padding-top: 30px;
+}
+
+.single-news > img {
+    float: left;
+}
+.news-content {
+  float: left;
+  margin-left: 0;
+  padding-left: 15px;
+  width: 73%;
+}
+.news-content > p {
+  font-size: 13px;
+}
+.counter-area {
+  padding-bottom: 30px;
+  text-align: center;
+}
+.counter-content h2 {
+  font-size: 24px;
+}
+.slide-content {
+  height: 460px;
+}
+.overlay::after {
+  opacity: 0.4;
+}
+.link-menu li, .footer-menu li {
+  margin-top: 10px;
+}
+.counter-area img {
+  margin-bottom: 20px;
+}
+
+
+footer .container {
+    padding: 17px 15px;
+}
+footer .container p {
+    padding: 0;
+    text-align: center;
+}
+
+.col-md-3.col-sm-6:nth-child(1) {
+    padding-bottom: 40px;
+}
+
+.col-md-4.col-sm-6:nth-child(2) {
+    padding-bottom: 40px;
+}
+
+
+
+/*===================================================================
+ 2. About Page
+=================================================================*/
+.about-content h1 {
+  font-size: 24px;
+}
+.page-title {
+  padding: 50px 0;
+}
+.page-title span {
+  margin-top: 4px;
+}
+.page-title h2 {
+  font-size: 24px;
+}
+.service-video-play a.link-video-icon {
+  left: 44%;
+  top: 40%;
+}
+/*===================================================================
+ 2. About Page
+=================================================================*/
+/*===================================================================
+ 3.Blog Deatils Page
+=================================================================*/
+
+.search-area input {
+  width: 250px;
+}
+.bolg-right h1 {
+  font-size: 16px;
+}
+.bolg-right > p {
+  font-size: 15px;
+}
+.post-tag span {
+  padding-left: 5px;
+}
+.post-tag > h4 {
+  margin-top: 10px;
+  padding: 5px;
+  font-size: 14px;
+}
+.post-tag {
+  padding: 4px;
+}
+.comment-content {
+  width: 100%;
+}
+.replay {
+  margin-top: 15px;
+  padding-left: 0;
+}
+.replay .comment-content {
+  padding-left: 0px;
+  width: 100%;
+}
+.comment-content {
+  padding-left: 0px;
+  width: 100%;
+}
+.comment-content {
+  float: none;
+  margin-top: 15px;
+}
+.comment-area form input.form-control {
+  height: 40px;
+}
+.popular-tags > a {
+  width: 130px;
+}
+.popular-tags{
+        text-align: center
+    }
+/*===================================================================
+ 3.Blog Deatils Page  End
+=================================================================*/
+
+/*===================================================================
+ 3.Blog Page  End
+=================================================================*/
+
+.event-content {
+  padding: 15px;
+}
+.event-content > h4 {
+  color: #222222;
+  font-size: 15px;
+  font-weight: 500;
+}
+.event-content {
+  background: #fff none repeat scroll 0 0;
+  border: 1px solid #57ab2f;
+  height: auto;
+  padding: 10px;
+  position: static;
+  width: auto;
+  z-index: 1;
+}
+.event-content > span i {
+  padding-right: 8px;
+}
+.single-event img {
+  width: 100%;
+}
+/*===================================================================
+ 3.Blog Deatils Page End
+=================================================================*/
+
+/*===================================================================
+ 4.Course Page Start
+=================================================================*/
+
+.course-page .single-course {
+  margin-bottom: 40px;
+}
+.course-menu > ul li {
+  line-height: 25px;
+  margin: 5px;
+  width: 180px;
+}
+.course-page .single-course img {
+  width: 100%;
+}
+.single-bolg::after{
+    display: none;
+}
+.single-bolg::before{
+    display: none;
+}
+
+.single-comment > img {
+    position: static;
+}
+.comment-content {
+    margin-left: 0;
+}
+.post-tag h4 {
+  display: block;
+  text-align: center;
+}
+/*===================================================================
+ 4.Blog Deatils Page End
+=================================================================*/
+/*===================================================================
+ 5.Course Page Start
+=================================================================*/
+.single-course-deatils > span {
+  font-size: 12px;
+}
+.single-course-deatils > h1 {
+    font-size: 22px;
+}
+.single-course-deatils > p {
+    margin: 8px 0;
+}
+.mainmenu-area .navbar .navbar-nav li a {
+  padding-top: 5px;
+}
+.mainmenu-area .navbar .navbar-nav li a:hover::after{
+    display: none;
+}
+/*===================================================================
+   5.Course- Page End
+  =================================================================*/
+  
+  
+/*===================================================================
+ 6.Course-deatils Page Start
+=================================================================*/
+
+.single-course-deatils {
+    padding-bottom: 50px;
+}
+
+/*===================================================================
+   6.Course-deatils Page End
+  =================================================================*/
+  
+   
+  
+/*===================================================================
+	7.faq Page Start
+=================================================================*/
+
+
+
+.style2.accordion dt, .accordion.style4 dt, .accordion.style5 dt {
+  font-size: 12px;
+  margin: 0;
+}
+dd {
+  padding: 10px;
+}
+/*===================================================================
+   7.faq Page End
+  =================================================================*/
+  
+  
+/*========================================================================
+   8. Gallary Page  End
+=========================================================================*/
+.single-gallary{
+  width: 100%;
+}
+
+/*========================================================================
+   8. Gallary Page  End
+=========================================================================*/ 
+.error-content {
+    text-align: center;
+}
+.error-content h1 {
+    font-size: 100px;
+}
+/*404 page End  */
+/*Professor Page Start*/
+.professors-area .course-menu {
+  margin-bottom: 10px;
+}
+/*Professor Page Start*/
+/*Faq page Start*/
+.faq-content {
+  height: 460px;
+}
+.faq-area .panel-title a {
+  padding: 0px 8px;
+}
+.faq-area .panel-title {
+  font-size: 13px;
+  padding: 0px 0;
+}
+.faq-area h2 {
+  font-size: 22px;
+  margin-bottom: 30px;
+  padding-top: 40px;
+}
+/*Faq page Start*/
+/*Contact page Start*/
+.contact-page form {
+  padding: 10px;
+}
+.single-contact {
+    margin: 2px;
+    width: 100%;
+}
+
+/*Faq page end*/
+/*  */
+    
+.event-deatils-content h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+.event-deatils-content > span {
+  margin-bottom: 22px;
+}   
+    
+.navbar-right .dropdown-menu {
+  right: 0;
+} 
+.single-course-img:hover::after {
+  display: none;
+}
+.single-course-img:hover::before {
+  display: none;
+}
+.single-course:hover::before {
+  display: none;
+}
+    
+.slide-images.slideInRight.animated {
+    display: none !important;
+}
+
+.single-notice {
+  padding-left: 0;
+} 
+.notice-board {
+  height: 380px;
+}   
+.event-deatils-content > span {
+  margin-bottom: 14px;
+  font-size: 13px;
+}  
+
+.single-gallary {
+  margin: 15px 0;
+  padding: 0px;
+}
+.application-area h2 {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 35px;
+  padding: 15px 25px;
+}
+    
+.application-area form .submit-btn {
+  margin-top: 10px;
+}    
+    
+.pdb90 {
+  padding-bottom: 30px !important;
+}   
+.pdt90 {
+  padding-top: 30px !important;
+}    
+.accordion.style2 dt::after, .accordion.style4 dt::after, .accordion.style5 dt::after {
+  background-color: rgba(0, 0, 0, 0);
+  border-radius: 5px;
+  color: #ffffff;
+  font-size: 22px;
+  line-height: 32px;
+  right: 0;
+  width: 35px;
+  z-index: 999;
+}  
+.post-tag a {
+ 
+  padding-right: 0px;
+}
+
+
+.teacher-wrapper .single-faculties {
+    margin-bottom: 60px;
+}
+.col-md-3.col-sm-6:last-child .single-faculties {
+    margin-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+/*========================================================================
+    Home Page Start
+=========================================================================*/
+    
+
+.header-left ul li {
+    margin: 0 15px;
+}
+
+
+.notice-board {
+    width: 465px;
+}
+.slide-content h1 {
+   font-size: 30px;
+}
+.slide-content p {
+   font-size: 15px;
+}
+.owl-nav {
+  display: none;
+}    
+.owl-dots {
+    display: block !important;
+    left: 82%;
+}
+.blog-image img {
+    width: 100%;
+}
+.single-bolg::after {
+  height: 320px;
+  width: 425px;
+  top: 12px;
+}
+.date {
+  bottom: 136px;
+}
+.single-bolg {
+  margin-top: 35px;
+}
+.features-content {
+  padding: 0 40px;
+}
+/*========================================================================
+    Home Page End
+=========================================================================*/
+/*========================================================================
+    Blog Deatils Start
+=========================================================================*/
+.search-area input {
+  width: 100%;
+}
+.bolg-right h1 {
+  font-size: 22px;
+}
+
+/*========================================================================
+    Event Page Start
+=========================================================================*/
+.event-content {
+  padding: 10px;
+
+}
+.single-event img {
+  width: 100%;
+}
+    
+.about-content-area {
+  padding-top: 40px;
+}
+    
+ /*========================================================================
+    Event Page End
+=========================================================================*/
+/*abot page Start*/
+.newslatter-area form button.submit-btn {
+  margin-top: 30px;
+}
+.newslatter-area {
+  padding: 65px 0;
+  text-align: center;
+}
+.newslatter-area h1 {
+  font-size: 30px;
+  margin-bottom: 25px;
+}
+/*about page End*/
+
+/*blog page Start*/
+.date {
+  bottom: 180px;
+}
+/*blog page End*/
+
+/*404 page start*/
+.error-area img {
+    margin-top: 35px;
+}
+/*404 page end*/
+.faq-area .panel-title a {
+  margin-right: -20px;
+  margin-top: -9px;
+  padding: 8px 14px;
+}
+.faq-area .panel-title {
+  font-size: 16px;
+  padding: 8px;
+}
+.faq-area .panel-title a {
+  margin-right: -20px;
+  margin-top: -15px;
+  padding: 5px 14px;
+}
+    
+.single-features:hover::before {
+  display: none;
+}
+
+
+
+
+
+
+
+
+
+}
